@@ -1,0 +1,8 @@
+{
+    "name": "userutils-service",
+    "version": "1.0.87",
+    "private": false,
+    "environment": "production",
+    "build_id": 912,
+    "allow_public_access": true
+}
